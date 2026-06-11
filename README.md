@@ -18,7 +18,7 @@ Developer focused on Discord automation and Python tooling.
 I build bots that do the work so I don't have to.
 
 - Speciality: Discord selfbots & automation scripts
-- Currently building: **ange-bot-contrlib**
+- Currently building: **token-finder**
 - Stack: Python · discord.py-self · asyncio
 
 ---
