@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=22&pause=1200&color=CC0000&center=true&vCenter=true&width=660&lines=Naxiwow+%E2%80%94+%E4%B8%8D%E5%96%B0%E7%A8%AE;Discord+Automation+%26+Python+Dev;%E5%BD%BC%E5%B2%B8%E8%8A%B1+%E2%80%94+Red+Spider+Lily;%E5%96%B0%E3%81%86%E3%81%8B%E5%96%B0%E3%82%8F%E3%82%8C%E3%82%8B%E3%81%8B;CCG+Classification+%3A+SS-RANK+%E2%97%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=22&pause=1200&color=CC0000&center=true&vCenter=true&width=700&lines=Naxiwow+%E2%80%94+%E4%B8%8D%E5%96%B0%E7%A8%AE;Equicord+Plugin+Dev+%2F%2F+Discord+Automation;messageLoggerEnhanced+%C2%B7+exportDM+%C2%B7+selfDestruct;%E5%BD%BC%E5%B2%B8%E8%8A%B1+%E2%80%94+Red+Spider+Lily;CCG+Classification+%3A+SS-RANK+%E2%97%88)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,7 +12,7 @@
 &nbsp;
 [![Discord](https://img.shields.io/badge/Discord-cc0000?style=for-the-badge&logo=discord&logoColor=f5f0f0&labelColor=080008)](https://discord.com)
 [![Python](https://img.shields.io/badge/Python-cc0000?style=for-the-badge&logo=python&logoColor=f5f0f0&labelColor=080008)](https://python.org)
-[![GitHub](https://img.shields.io/badge/GitHub-cc0000?style=for-the-badge&logo=github&logoColor=f5f0f0&labelColor=080008)](https://github.com/Naxiwow)
+[![TypeScript](https://img.shields.io/badge/TypeScript-cc0000?style=for-the-badge&logo=typescript&logoColor=f5f0f0&labelColor=080008)](https://github.com/Naxiwow)
 
 </div>
 
@@ -43,13 +43,14 @@
 
 <br/>
 
-**Discord Automation & Python Dev**
+**Discord Ecosystem Dev**
 
-Building tools that work while I don't have to.
+Plugins, automation & surveillance tools.
 
-- ◉ &nbsp; Discord plugins & modded clients
-- ◈ &nbsp; Python · TypeScript · discord.py-self
-- ◇ &nbsp; Currently — `nightcord-plugins-equicord`
+- ◉ &nbsp; Equicord plugins — 8 custom built
+- ◈ &nbsp; `messageLoggerEnhanced` · `exportDM` · `eventLogs`
+- ◈ &nbsp; `selfDestruct` · `followUser` · `muteAllServers`
+- ◇ &nbsp; Python automation — discord.py-self
 
 <br/>
 
@@ -71,10 +72,43 @@ Building tools that work while I don't have to.
 
 <div align="center">
 
-| &nbsp; | Project | Description | Stack |
-|:---:|:---|:---|:---|
-| ◉ | **[nightcord-plugins-equicord](https://github.com/Naxiwow/nightcord-plugins-equicord)** | Nightcord plugins compatibility fork for Equicord | TypeScript |
-| ◈ | **[discord-token-finder](https://github.com/Naxiwow/discord-token-finder)** | Find your own Discord token — local scan only | Python |
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**[nightcord-plugins-equicord](https://github.com/Naxiwow/nightcord-plugins-equicord)**
+
+Compatibility refork of Nightcord plugins for Equicord
+
+```
+cancelFriendRequest  ·  eventLogs
+exportDM             ·  followUser
+lockGroup            ·  muteAllServers
+selfDestruct         ·  messageLoggerEnhanced
+```
+
+![TypeScript](https://img.shields.io/badge/TypeScript-f5f0f0?style=flat-square&logo=typescript&logoColor=cc0000&labelColor=080008)
+![Equicord](https://img.shields.io/badge/Equicord-f5f0f0?style=flat-square&logo=discord&logoColor=cc0000&labelColor=080008)
+
+</td>
+<td valign="top" width="50%">
+
+**[discord-token-finder](https://github.com/Naxiwow/discord-token-finder)**
+
+Find your own Discord token — scans all clients locally, nothing sent anywhere
+
+```
+Discord · Canary · PTB · Vesktop
+Vencord · Equicord · Legcord
+Chrome  · Edge    · Brave · Opera
+```
+
+![Python](https://img.shields.io/badge/Python-f5f0f0?style=flat-square&logo=python&logoColor=cc0000&labelColor=080008)
+![Windows](https://img.shields.io/badge/Windows-f5f0f0?style=flat-square&logo=windows&logoColor=cc0000&labelColor=080008)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -84,12 +118,12 @@ Building tools that work while I don't have to.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-f5f0f0?style=flat-square&logo=python&logoColor=cc0000&labelColor=080008)
 ![TypeScript](https://img.shields.io/badge/TypeScript-f5f0f0?style=flat-square&logo=typescript&logoColor=cc0000&labelColor=080008)
+![Python](https://img.shields.io/badge/Python-f5f0f0?style=flat-square&logo=python&logoColor=cc0000&labelColor=080008)
 ![discord.py-self](https://img.shields.io/badge/discord.py--self-f5f0f0?style=flat-square&logo=discord&logoColor=cc0000&labelColor=080008)
+![React](https://img.shields.io/badge/React-f5f0f0?style=flat-square&logo=react&logoColor=cc0000&labelColor=080008)
 ![Git](https://img.shields.io/badge/Git-f5f0f0?style=flat-square&logo=git&logoColor=cc0000&labelColor=080008)
 ![VS Code](https://img.shields.io/badge/VS%20Code-f5f0f0?style=flat-square&logo=visual-studio-code&logoColor=cc0000&labelColor=080008)
-![Windows](https://img.shields.io/badge/Windows-f5f0f0?style=flat-square&logo=windows&logoColor=cc0000&labelColor=080008)
 
 </div>
 
