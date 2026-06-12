@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://cdn.pfps.gg/banners/6762-tokyo-ghoul.gif" width="100%" alt="Tokyo Ghoul"/>
+<img src="https://raw.githubusercontent.com/Naxiwow/Naxiwow/main/assets/banner1.jpg" width="100%" alt="Tokyo Ghoul — Red Spider Lily"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=20&pause=1200&color=CC0000&center=true&vCenter=true&width=620&lines=Naxiwow+%E2%80%94+%E4%B8%8D%E5%96%B0%E7%A8%AE;Discord+Automation+%26+Python+Dev;%E5%96%B0%E3%81%86%E3%81%8B%E5%96%B0%E3%82%8F%E3%82%8C%E3%82%8B%E3%81%8B+%E2%80%94+eat+or+be+eaten;CCG+Classification+%3A+SS-RANK+%E2%97%88;Building+from+the+shadows)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=22&pause=1200&color=CC0000&center=true&vCenter=true&width=660&lines=Naxiwow+%E2%80%94+%E4%B8%8D%E5%96%B0%E7%A8%AE;Discord+Automation+%26+Python+Dev;%E5%BD%BC%E5%B2%B8%E8%8A%B1+%E2%80%94+Red+Spider+Lily;%E5%96%B0%E3%81%86%E3%81%8B%E5%96%B0%E3%82%8F%E3%82%8C%E3%82%8B%E3%81%8B;CCG+Classification+%3A+SS-RANK+%E2%97%88)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,10 +15,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-cc0000?style=for-the-badge&logo=github&logoColor=f5f0f0&labelColor=080008)](https://github.com/Naxiwow)
 
 </div>
-
-<br/>
-
-<img src="https://cdn.pfps.gg/banners/2089-bannieredisc.gif" width="100%" alt="divider"/>
 
 <br/>
 
@@ -33,6 +29,7 @@
 ║                                      ║
 ║  ALIAS     ──  Naxiwow              ║
 ║  SPECIES   ──  不喰種  /  Ghoul     ║
+║  KAGUNE    ──  彼岸花  /  Rinkaku   ║
 ║  RC LEVEL  ──  ████████████  SS     ║
 ║  THREAT    ──  ██████████████ SS+   ║
 ║  BASE      ──  Anteiku  ア         ║
@@ -48,15 +45,17 @@
 
 **Discord Automation & Python Dev**
 
-Building bots that work while I don't have to.
+Building tools that work while I don't have to.
 
 - ◉ &nbsp; Discord selfbots & automation
-- ◈ &nbsp; Python · discord.py-self · asyncio  
-- ◇ &nbsp; Currently building `ange-bot-contrlib`
+- ◈ &nbsp; Python · discord.py-self · asyncio
+- ◇ &nbsp; Currently — `ange-bot-contrlib`
 
 <br/>
 
-*「 喰うか喰われるか — それだけだ 」*
+> *「 彼岸花は、あの世とこの世の境に咲く 」*
+>
+> *"The spider lily blooms at the border between this world and the next."*
 
 </td>
 </tr>
@@ -64,7 +63,7 @@ Building bots that work while I don't have to.
 
 <br/>
 
-<img src="https://cdn.pfps.gg/banners/8362-tokyo-ghoul.png" width="100%" alt="Tokyo Ghoul"/>
+<img src="https://raw.githubusercontent.com/Naxiwow/Naxiwow/main/assets/banner3.png" width="100%" alt="Tokyo Ghoul"/>
 
 <br/>
 
@@ -132,12 +131,12 @@ Building bots that work while I don't have to.
 
 <br/>
 
-<img src="https://cdn.pfps.gg/banners/3953-tokyo-ghoul.png" width="100%" alt="Tokyo Ghoul"/>
+<img src="https://raw.githubusercontent.com/Naxiwow/Naxiwow/main/assets/banner2.jpg" width="100%" alt="Tokyo Ghoul"/>
 
 <div align="center">
 
 <br/>
 
-`不喰種` &nbsp;·&nbsp; [Naxiwow](https://github.com/Naxiwow) &nbsp;·&nbsp; `喰種`
+`彼岸花` &nbsp;·&nbsp; [Naxiwow](https://github.com/Naxiwow) &nbsp;·&nbsp; `不喰種`
 
 </div>
