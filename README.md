@@ -47,9 +47,9 @@
 
 Building tools that work while I don't have to.
 
-- ◉ &nbsp; Discord selfbots & automation
-- ◈ &nbsp; Python · discord.py-self · asyncio
-- ◇ &nbsp; Currently — `ange-bot-contrlib`
+- ◉ &nbsp; Discord plugins & modded clients
+- ◈ &nbsp; Python · TypeScript · discord.py-self
+- ◇ &nbsp; Currently — `nightcord-plugins-equicord`
 
 <br/>
 
@@ -73,9 +73,8 @@ Building tools that work while I don't have to.
 
 | &nbsp; | Project | Description | Stack |
 |:---:|:---|:---|:---|
-| ◉ | **Discord Selfbot** | Autoclaim system & session history | Python, discord.py-self |
-| ◈ | **[TokenFinder](https://github.com/Naxiwow/discord-token-finder)** | Find your own Discord token locally | Python |
-| ◇ | **ange-bot-contrlib** | Discord bot contribution library | Python |
+| ◉ | **[nightcord-plugins-equicord](https://github.com/Naxiwow/nightcord-plugins-equicord)** | Nightcord plugins compatibility fork for Equicord | TypeScript |
+| ◈ | **[discord-token-finder](https://github.com/Naxiwow/discord-token-finder)** | Find your own Discord token — local scan only | Python |
 
 </div>
 
@@ -86,8 +85,8 @@ Building tools that work while I don't have to.
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-f5f0f0?style=flat-square&logo=python&logoColor=cc0000&labelColor=080008)
+![TypeScript](https://img.shields.io/badge/TypeScript-f5f0f0?style=flat-square&logo=typescript&logoColor=cc0000&labelColor=080008)
 ![discord.py-self](https://img.shields.io/badge/discord.py--self-f5f0f0?style=flat-square&logo=discord&logoColor=cc0000&labelColor=080008)
-![asyncio](https://img.shields.io/badge/asyncio-f5f0f0?style=flat-square&logo=python&logoColor=cc0000&labelColor=080008)
 ![Git](https://img.shields.io/badge/Git-f5f0f0?style=flat-square&logo=git&logoColor=cc0000&labelColor=080008)
 ![VS Code](https://img.shields.io/badge/VS%20Code-f5f0f0?style=flat-square&logo=visual-studio-code&logoColor=cc0000&labelColor=080008)
 ![Windows](https://img.shields.io/badge/Windows-f5f0f0?style=flat-square&logo=windows&logoColor=cc0000&labelColor=080008)
