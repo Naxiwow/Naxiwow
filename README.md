@@ -86,12 +86,7 @@ Building tools that work while I don't have to.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-f5f0f0?style=flat-square&logo=python&logoColor=cc0000&labelColor=080008)
-![TypeScript](https://img.shields.io/badge/TypeScript-f5f0f0?style=flat-square&logo=typescript&logoColor=cc0000&labelColor=080008)
-![discord.py-self](https://img.shields.io/badge/discord.py--self-f5f0f0?style=flat-square&logo=discord&logoColor=cc0000&labelColor=080008)
-![Git](https://img.shields.io/badge/Git-f5f0f0?style=flat-square&logo=git&logoColor=cc0000&labelColor=080008)
-![VS Code](https://img.shields.io/badge/VS%20Code-f5f0f0?style=flat-square&logo=visual-studio-code&logoColor=cc0000&labelColor=080008)
-![Windows](https://img.shields.io/badge/Windows-f5f0f0?style=flat-square&logo=windows&logoColor=cc0000&labelColor=080008)
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,react,discord,git,github,vscode,windows&theme=dark&perline=10" />
 
 </div>
 
