@@ -47,9 +47,9 @@
 
 Building tools that work while I don't have to.
 
-- ◉ &nbsp; Discord plugins & modded clients
-- ◈ &nbsp; Python · TypeScript · discord.py-self
-- ◇ &nbsp; Currently — `nightcord-plugins-equicord`
+- ◉ &nbsp; Equicord plugins — 8 custom plugins
+- ◈ &nbsp; Python automation — discord.py-self
+- ◇ &nbsp; `nightcord-plugins-equicord` · `discord-token-finder v2.4`
 
 <br/>
 
@@ -73,8 +73,8 @@ Building tools that work while I don't have to.
 
 | &nbsp; | Project | Description | Stack |
 |:---:|:---|:---|:---|
-| ◉ | **[nightcord-plugins-equicord](https://github.com/Naxiwow/nightcord-plugins-equicord)** | Nightcord plugins compatibility fork for Equicord | TypeScript |
-| ◈ | **[discord-token-finder](https://github.com/Naxiwow/discord-token-finder)** | Find your own Discord token — local scan only | Python |
+| ◉ | **[nightcord-plugins-equicord](https://github.com/Naxiwow/nightcord-plugins-equicord)** | 8 Nightcord plugins ported to Equicord — cancelFriendRequest · exportDM · messageLoggerEnhanced · selfDestruct + more | TypeScript |
+| ◈ | **[discord-token-finder](https://github.com/Naxiwow/discord-token-finder)** | Find your own Discord token — 27 sources, all clients & browsers, nothing sent anywhere · `v2.4` | Python |
 
 </div>
 
