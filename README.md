@@ -61,7 +61,11 @@ Building tools that work while I don't have to.
 </tr>
 </table>
 
----
+<br/>
+
+<img src="https://raw.githubusercontent.com/Naxiwow/Naxiwow/main/assets/banner3.png" width="100%" alt="Tokyo Ghoul"/>
+
+<br/>
 
 ## ◈ &nbsp; Projects
 
@@ -123,10 +127,6 @@ Building tools that work while I don't have to.
 ![Snake](https://raw.githubusercontent.com/Naxiwow/Naxiwow/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Naxiwow/Naxiwow/main/assets/banner2.jpg" width="100%" alt="Tokyo Ghoul"/>
 
 <div align="center">
 
